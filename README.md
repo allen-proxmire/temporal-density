@@ -18,8 +18,7 @@ The manuscript outlines the hypothesis, a minimal conceptual model, qualitative 
 - Any supplementary notes, diagrams, or future extensions
 
 ## Citation
-A DOI will be assigned via **Zenodo** once the first release is published.  
-After that, please cite the Zenodo record for archival stability.
+[![DOI](https://zenodo.org/badge/1124778234.svg)](https://doi.org/10.5281/zenodo.18090236)
 
 ## Purpose
 This repository serves as:
@@ -37,8 +36,7 @@ This is an exploratory, interdisciplinary project at the intersection of:
 Feedback, critique, and further development are welcome.
 
 ## License
-You may choose a license (e.g., MIT, CC-BY 4.0).  
-If none is specified, the default is “all rights reserved.”
+MIT  
 
 ---
 
