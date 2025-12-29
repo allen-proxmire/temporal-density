@@ -14,26 +14,16 @@ The manuscript outlines the hypothesis, a minimal conceptual model, qualitative 
 
 ## Contents
 - `manuscript.pdf` — The full speculative note  
-- `manuscript.md` or `manuscript.tex` — Source files (if included)  
+- `README.md`   
 - Any supplementary notes, diagrams, or future extensions
 
 ## Citation
 [![DOI](https://zenodo.org/badge/1124778234.svg)](https://doi.org/10.5281/zenodo.18090236)
 
 ## Purpose
-This repository serves as:
-- A transparent home for the manuscript and its evolution  
-- A stable reference for PhilPapers and Zenodo  
+This repository serves as: 
 - A place to track revisions, commentary, and future extensions of the idea
 
-## Status
-This is an exploratory, interdisciplinary project at the intersection of:
-- philosophy of physics  
-- conceptual cosmology  
-- foundations of spacetime  
-- speculative theoretical frameworks  
-
-Feedback, critique, and further development are welcome.
 
 ## License
 MIT  
